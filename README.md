@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpTmcCBBdTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/YpTmcCBBdTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YpTmcCBBdTE "React JS Password Generator")
 
 </br>
 
